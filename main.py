@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
 import os
-import pandas
 import sys
 
 from dotenv import load_dotenv
